@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "b5fe89012fb011ec881474dfbf1b0c8d"}, "enunciado": "\u00bfCuantos anos duro la guerra de los 100 anos?", "opcion_a": "102", "opcion_b": "98", "opcion_c": "116", "opcion_d": "100", "respuesta": "116", "cod_categoria": 1, "dificultad": "Intermedio"}

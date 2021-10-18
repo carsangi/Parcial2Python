@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "05d167b82faf11eca4c474dfbf1b0c8d"}, "enunciado": "\u00bfComo se denomina el resultado de la multiplicacion?", "opcion_a": "Residuo", "opcion_b": "Dividendo", "opcion_c": "Resultado", "opcion_d": "Producto", "respuesta": "Producto", "cod_categoria": 1, "dificultad": "Facil"}

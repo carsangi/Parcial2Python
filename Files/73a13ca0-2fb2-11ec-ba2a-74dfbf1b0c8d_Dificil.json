@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "73a13ca02fb211ecba2a74dfbf1b0c8d"}, "enunciado": "\u00bfCuantos mangos por lado tiene un futbolin?", "opcion_a": "4", "opcion_b": "5", "opcion_c": "3", "opcion_d": "9", "respuesta": "4", "cod_categoria": 3, "dificultad": "Dificil"}

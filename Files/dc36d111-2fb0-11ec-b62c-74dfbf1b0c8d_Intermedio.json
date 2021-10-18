@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "dc36d1112fb011ecb62c74dfbf1b0c8d"}, "enunciado": "\u00bfCual fue el segundo pais americano en independizarse?", "opcion_a": "Haiti", "opcion_b": "Cuba", "opcion_c": "Canada", "opcion_d": "Argentina", "respuesta": "Haiti", "cod_categoria": 1, "dificultad": "Intermedio"}

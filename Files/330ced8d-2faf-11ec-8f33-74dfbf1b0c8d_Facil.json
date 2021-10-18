@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "330ced8d2faf11ec8f3374dfbf1b0c8d"}, "enunciado": "\u00bfCual es el lugar mas fr\u00edo de la tierra?", "opcion_a": "Antartida", "opcion_b": "Bogota", "opcion_c": "Toronto", "opcion_d": "Alaska", "respuesta": "Antartida", "cod_categoria": 1, "dificultad": "Facil"}

@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "d8a88c452fb211ecb4ba74dfbf1b0c8d"}, "enunciado": "\u00bfQuien fue Cobi?", "opcion_a": "Una mascota olimpica", "opcion_b": "Una futbolista", "opcion_c": "Un evento conmemorativo", "opcion_d": "Una nadadora", "respuesta": "Una mascota olimpica", "cod_categoria": 3, "dificultad": "Dificil"}

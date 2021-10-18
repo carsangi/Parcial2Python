@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "df42c0812faf11ec845474dfbf1b0c8d"}, "enunciado": "\u00bfCual es tercer planeta en el sistema solar?", "opcion_a": "Marte", "opcion_b": "Venus", "opcion_c": "La Tierra", "opcion_d": "Jupiter", "respuesta": "La Tierra", "cod_categoria": 1, "dificultad": "Facil"}

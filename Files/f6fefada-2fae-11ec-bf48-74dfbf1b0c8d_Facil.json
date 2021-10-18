@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "f6fefada2fae11ecbf4874dfbf1b0c8d"}, "enunciado": "\u00bfQue ano llego Cristobal Colon a America?", "opcion_a": "1492", "opcion_b": "1495", "opcion_c": "1498", "opcion_d": "1499", "respuesta": "1492", "cod_categoria": 1, "dificultad": "Facil"}

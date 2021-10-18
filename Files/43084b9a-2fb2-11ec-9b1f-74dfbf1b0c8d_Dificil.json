@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "43084b9a2fb211ec9b1f74dfbf1b0c8d"}, "enunciado": "\u00bfQue deporte practican los Harlem Globetrotters?", "opcion_a": "Futbol", "opcion_b": "Natacion", "opcion_c": "Baseball", "opcion_d": "Basketball", "respuesta": "Basketball", "cod_categoria": 3, "dificultad": "Dificil"}

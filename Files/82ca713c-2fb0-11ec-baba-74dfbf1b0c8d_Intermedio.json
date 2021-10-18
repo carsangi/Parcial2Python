@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "82ca713c2fb011ecbaba74dfbf1b0c8d"}, "enunciado": "\u00bfEn que ano fue asesinado John F. Kennedy?", "opcion_a": "1964", "opcion_b": "1962", "opcion_c": "1963", "opcion_d": "1965", "respuesta": "1963", "cod_categoria": 1, "dificultad": "Intermedio"}

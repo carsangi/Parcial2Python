@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "15f933252fb311ecbf1174dfbf1b0c8d"}, "enunciado": "\u00bfQue era el Concorde?", "opcion_a": "Un avion", "opcion_b": "Una persona", "opcion_c": "Un cafe", "opcion_d": "Un hotel", "respuesta": "Un avion", "cod_categoria": 1, "dificultad": "Dificil"}

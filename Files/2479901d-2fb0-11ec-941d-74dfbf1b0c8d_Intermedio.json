@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "2479901d2fb011ec941d74dfbf1b0c8d"}, "enunciado": "\u00bfDe que ano es la Constituci\u00f3n Espanola?", "opcion_a": "1978", "opcion_b": "1974", "opcion_c": "1975", "opcion_d": "1987", "respuesta": "1978", "cod_categoria": 1, "dificultad": "Intermedio"}

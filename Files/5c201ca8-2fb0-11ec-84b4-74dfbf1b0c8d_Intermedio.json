@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "5c201ca82fb011ec84b474dfbf1b0c8d"}, "enunciado": "\u00bfCual era la capital del imperio inca?", "opcion_a": "Cuzco", "opcion_b": "Cartagena", "opcion_c": "Cancuna", "opcion_d": "Lima", "respuesta": "Cuzco", "cod_categoria": 1, "dificultad": "Intermedio"}

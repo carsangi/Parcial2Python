@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "1f101a1c2faf11ecbe4b74dfbf1b0c8d"}, "enunciado": "\u00bfQuien escribio La Odisea??", "opcion_a": "Petro", "opcion_b": "Camilo", "opcion_c": "Homero", "opcion_d": "Shakira", "respuesta": "Homero", "cod_categoria": 1, "dificultad": "Facil"}

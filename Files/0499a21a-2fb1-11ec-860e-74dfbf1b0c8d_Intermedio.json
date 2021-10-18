@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "0499a21a2fb111ec860e74dfbf1b0c8d"}, "enunciado": "\u00bfCual es la capital de Filipinas?", "opcion_a": "Manila", "opcion_b": "Padua", "opcion_c": "Lara", "opcion_d": "Machu", "respuesta": "Manila", "cod_categoria": 1, "dificultad": "Intermedio"}

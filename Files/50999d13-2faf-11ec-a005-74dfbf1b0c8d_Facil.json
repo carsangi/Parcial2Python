@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "50999d132faf11eca00574dfbf1b0c8d"}, "enunciado": "\u00bfQue producto cultiva m\u00e1s Guatemala?", "opcion_a": "Yuca", "opcion_b": "Banano", "opcion_c": "Platano", "opcion_d": "Cafe", "respuesta": "Cafe", "cod_categoria": 1, "dificultad": "Facil"}

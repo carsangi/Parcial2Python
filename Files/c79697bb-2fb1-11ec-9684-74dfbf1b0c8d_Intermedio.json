@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "c79697bb2fb111ec968474dfbf1b0c8d"}, "enunciado": "\u00bfDonde se celebro la Copa Mundial de la FIFA en 1994?", "opcion_a": "Italia", "opcion_b": "Alemania", "opcion_c": "Mexico", "opcion_d": "Francia", "respuesta": "Italia", "cod_categoria": 3, "dificultad": "Intermedio"}

@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "50c76a102fb311ec93c374dfbf1b0c8d"}, "enunciado": "\u00bfQuien era el dios vikingo de la luz y de la verdad?", "opcion_a": "Zeus", "opcion_b": "Balder", "opcion_c": "Andhrimnir", "opcion_d": "Thor", "respuesta": "Balder", "cod_categoria": 1, "dificultad": "Dificil"}

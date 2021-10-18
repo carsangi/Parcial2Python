@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "75d9d0f12faf11ec8d4674dfbf1b0c8d"}, "enunciado": "\u00bfQuien es el famoso Rey de Rock en los Estados Unidos?", "opcion_a": "Beyonce", "opcion_b": "Elvis Presley", "opcion_c": "Bruno Mars", "opcion_d": "The Weekend", "respuesta": "Elvis Presley", "cod_categoria": 1, "dificultad": "Facil"}

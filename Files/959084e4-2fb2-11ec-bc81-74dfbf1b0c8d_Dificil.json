@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "959084e42fb211ecbc8174dfbf1b0c8d"}, "enunciado": "\u00bfEn que pais nacieron los dardos?", "opcion_a": "Colombia", "opcion_b": "Inglatera", "opcion_c": "Ucrania", "opcion_d": "Estambul", "respuesta": "Inglatera", "cod_categoria": 3, "dificultad": "Dificil"}

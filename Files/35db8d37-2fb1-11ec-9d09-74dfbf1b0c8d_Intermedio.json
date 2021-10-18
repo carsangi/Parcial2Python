@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "35db8d372fb111ec9d0974dfbf1b0c8d"}, "enunciado": "\u00bfComo se llama el protagonista de Crimen y castigo?", "opcion_a": "Romeo", "opcion_b": "Ronaldo", "opcion_c": "Romario", "opcion_d": "Rodia", "respuesta": "Rodia", "cod_categoria": 2, "dificultad": "Intermedio"}

@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "9b9a839a2fb111ec955e74dfbf1b0c8d"}, "enunciado": "Donde se invento el voley?", "opcion_a": "EEUU", "opcion_b": "Alemania", "opcion_c": "Mexico", "opcion_d": "Rusia", "respuesta": "EEUU", "cod_categoria": 3, "dificultad": "Intermedio"}

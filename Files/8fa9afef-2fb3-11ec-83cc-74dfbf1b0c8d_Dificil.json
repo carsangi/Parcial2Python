@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "8fa9afef2fb311ec83cc74dfbf1b0c8d"}, "enunciado": "\u00bfCual es la capital de Eslovenia?", "opcion_a": "Lisboa", "opcion_b": "Barcelona", "opcion_c": "Piran", "opcion_d": "Liubliana", "respuesta": "Liubliana", "cod_categoria": 1, "dificultad": "Dificil"}

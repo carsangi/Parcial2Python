@@ -1,0 +1,1 @@
+{"py/object": "Dominio.Pregunta.Pregunta", "id_pregunta": {"py/object": "uuid.UUID", "hex": "1129cfce2faf11ec99bc74dfbf1b0c8d"}, "enunciado": "\u00bfEn que continente esta Ecuador?", "opcion_a": "Europa", "opcion_b": "Asia", "opcion_c": "Occeania", "opcion_d": "America", "respuesta": "America", "cod_categoria": 1, "dificultad": "Facil"}
