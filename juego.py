@@ -414,42 +414,6 @@ etiqueta = Label(ventana,text="Bienvenido Futuro Millonario", bg="green" , fg="w
 etiqueta.pack(fill = X)
 ventana.mainloop()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     saver = Persistencia()
     saver.connect()
